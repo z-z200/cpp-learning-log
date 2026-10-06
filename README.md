@@ -19,7 +19,8 @@ cpp-learning-log/
 ├─ src/
 │  └─ day01_hello.cpp
 └─ notes/
-   └─ git_basics.md
+   ├─ git_basics.md
+   └─ 2026-10-06-day01-git-github.md
 ```
 
 ## 编译第一个程序
@@ -28,3 +29,7 @@ cpp-learning-log/
 g++ .\src\day01_hello.cpp -o .\hello.exe
 .\hello.exe
 ```
+
+## 学习日志
+
+- [2026-10-06：Git 与 GitHub 入门](notes/2026-10-06-day01-git-github.md)
