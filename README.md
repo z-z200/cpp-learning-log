@@ -1,5 +1,7 @@
 # C++ Learning Log
 
+- 已于 2026-10-06 完成第一次 Git 提交和 GitHub Push。
+
 这是我的 C/C++ 学习与算法练习仓库，也用于学习 Git、GitHub 和 AI 工具。
 
 ## 学习目标
