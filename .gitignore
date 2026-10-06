@@ -1,0 +1,17 @@
+# Build output
+build/
+out/
+bin/
+*.exe
+*.o
+*.obj
+*.out
+
+# IDE settings
+.vscode/
+.idea/
+
+# Secrets
+.env
+*.key
+*.pem
