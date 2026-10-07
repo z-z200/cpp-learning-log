@@ -33,3 +33,5 @@ g++ .\src\day01_hello.cpp -o .\hello.exe
 ## 学习日志
 
 - [2026-10-06：Git 与 GitHub 入门](notes/2026-10-06-day01-git-github.md)
+- [2026-10-07：分支与 Pull Request](notes/2026-10-07-day02-branch-pr.md)
+- [学习进度](LEARNING_PROGRESS.md)
