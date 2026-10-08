@@ -15,12 +15,17 @@
 
 ```text
 cpp-learning-log/
+├─ AGENTS.md
+├─ LEARNING_PROGRESS.md
 ├─ README.md
 ├─ src/
-│  └─ day01_hello.cpp
+│  ├─ day01_hello.cpp
+│  └─ cli_todo.cpp
 └─ notes/
    ├─ git_basics.md
-   └─ 2026-10-06-day01-git-github.md
+   ├─ 2026-10-06-day01-git-github.md
+   ├─ 2026-10-07-day02-branch-pr.md
+   └─ 2026-10-08-day03-cli-todo.md
 ```
 
 ## 编译第一个程序
@@ -35,3 +40,4 @@ g++ .\src\day01_hello.cpp -o .\hello.exe
 - [2026-10-06：Git 与 GitHub 入门](notes/2026-10-06-day01-git-github.md)
 - [2026-10-07：分支与 Pull Request](notes/2026-10-07-day02-branch-pr.md)
 - [学习进度](LEARNING_PROGRESS.md)
+- [2026-10-08：cli-todo 第一版](notes/2026-10-08-day03-cli-todo.md)
