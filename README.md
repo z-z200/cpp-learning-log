@@ -23,7 +23,10 @@ cpp-learning-log/
 │  ├─ cpp/
 │  │  ├─ PROGRESS.md
 │  │  └─ notes/
-│  └─ algorithms/
+│  ├─ algorithms/
+│  │  ├─ PROGRESS.md
+│  │  └─ notes/
+│  └─ ai/
 │     ├─ PROGRESS.md
 │     └─ notes/
 └─ src/
@@ -37,6 +40,7 @@ cpp-learning-log/
 - [Git 与 GitHub](learning/github/PROGRESS.md)
 - [C++ 项目](learning/cpp/PROGRESS.md)
 - [算法](learning/algorithms/PROGRESS.md)
+- [AI 工具与 Agent](learning/ai/PROGRESS.md)
 
 ## 编译 cli-todo
 
