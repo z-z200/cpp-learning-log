@@ -18,7 +18,16 @@
 - 理解本地合并与远程 PR 的区别
 - 学习日志：[分支与 Pull Request](notes/2026-10-07-day02-branch-pr.md)
 
+## 2026-10-11：GitHub Issues 与 PR 关联
+
+- 创建 Issue #4 记录学习任务
+- 学习 Assignees、Labels 和 Milestone
+- 学习使用 `#编号` 引用 Issue
+- 学习 PR 描述中的 `Closes #4` 自动关闭机制
+- 学习日志：[GitHub Issues 与 PR 关联](notes/2026-10-11-day03-github-issues.md)
+
 ## 当前状态
 
 - 已掌握个人项目的分支、提交、推送和 PR 流程
-- 尚未专门学习 Issue、GitHub Actions 和多人协作审查
+- 正在完成 Issue 与 PR 关联、自动关闭流程
+- 尚未专门学习 GitHub Actions 和多人协作审查
